@@ -1,4 +1,4 @@
-//HALLOW INVERTED RIGHT TRIANGLE
+// INVERTED RIGHT TRIANGLE
 #include<stdio.h>
 int main()
 {
@@ -9,12 +9,7 @@ int main()
 	{
 		for(j=1; j<=n-i+1;  j++)
 		{
-			if(i==1|| j==1 || j==n-i+1)
-			{
 			printf("*");
-		}
-			else
-				printf(" ");
 		}
 		printf("\n");
 	}
