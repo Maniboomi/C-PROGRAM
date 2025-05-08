@@ -1,3 +1,4 @@
+// HALLOW RHOMBUS STAR PATTERN
 #include<stdio.h>
 int main()
 {
