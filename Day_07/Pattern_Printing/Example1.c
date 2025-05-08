@@ -1,3 +1,4 @@
+//SQUARE STAR PATTERN
 #include<stdio.h>
 int main()
 {
