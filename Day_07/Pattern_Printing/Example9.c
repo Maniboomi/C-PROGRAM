@@ -1,3 +1,4 @@
+//HALLOW INVERTED RIGHT TRIANGLE STAR PATTERN 
 #include<stdio.h>
 int main()
 {
