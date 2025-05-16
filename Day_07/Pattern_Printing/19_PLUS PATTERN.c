@@ -1,4 +1,3 @@
-//PLUS IN STAR PATTERN
 //PLUS STAR PATTERN
 #include<stdio.h>
 int main()
