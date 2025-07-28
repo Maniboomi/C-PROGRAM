@@ -1,0 +1,17 @@
+#include<stdio.h>
+int addition(void)
+{
+	int a,b;
+	printf("Enter twonumber :");
+	scanf("%d%d",&a,&b);
+	return a+b;
+}
+int main()
+{
+	int result;
+	int (*ptr)();
+	ptr = &addition;
+	result = (*ptr)();
+	printf("The sum is %d\n",result);
+	return 0;
+}
